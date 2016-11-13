@@ -17,4 +17,5 @@ def index():
     return json.dumps({"count": state["hits"] })
 
 if __name__ == '__main__':
+    lights1.nightRide(3)
     app.run(debug=True, host='0.0.0.0')
