@@ -9,6 +9,8 @@ Load-balanced Python flask service with LED lights to show when an upstream serv
 
 *Honoured to have had this [retweeted by Solomon Hykes](https://twitter.com/alexellisuk/status/732497170234937344), the creator of Docker*
 
+DEMO Video https://www.youtube.com/watch?v=G1c_wdjjMbw
+
 ### Technical Deep Dive
 
 Please read the [technical Deep Dive](http://blog.alexellis.io/iot-docker-cluster/) here on my blog for all the details and conceptual diagrams.
